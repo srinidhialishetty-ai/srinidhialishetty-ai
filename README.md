@@ -128,6 +128,10 @@ A structured inventory control system designed to track stock levels, manage upd
   <img src="https://img.shields.io/badge/View%20Repo-A47148?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://inventory-platform-glc1.onrender.com/">
+  <img src="https://img.shields.io/badge/Live%20Demo-ff69b4?style=for-the-badge"/>
+</a>
+
 </div>
 
 <!-- PROJECT 3 -->
