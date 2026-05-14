@@ -116,6 +116,7 @@ A real-time crowd intelligence system that simulates and optimizes movement flow
 
 </div>
 
+
 <!-- PROJECT 2 -->
 <div style="border:1px solid #A47148; border-radius:14px; padding:14px; margin:10px; width:80%;">
 
@@ -129,10 +130,11 @@ A structured inventory control system designed to track stock levels, manage upd
 </a>
 
 <a href="https://inventory-platform-glc1.onrender.com/">
-  <img src="https://img.shields.io/badge/Live%20Demo-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Live%20Demo-A47148?style=for-the-badge"/>
 </a>
 
 </div>
+
 
 <!-- PROJECT 3 -->
 <div style="border:1px solid #6F4E37; border-radius:14px; padding:14px; margin:10px; width:80%;">
